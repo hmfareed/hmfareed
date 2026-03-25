@@ -2,7 +2,7 @@
 
 I am a developer with a strong passion for Software Engineering, Data Science, and building intelligent systems.
 
-🌱 Currently studying Machine Learning algorithms Logistic Regression, Naive Bayes
+🌱 A passionate Software Engineering student dedicated to learning, building, and solving real-world problems through code.
 
 **🛠️ Languages and Tools:**
 
