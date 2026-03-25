@@ -2,7 +2,7 @@
 
 I am a developer with a strong passion for Software Engineering, Data Science, and building intelligent systems.
 
-🌱 A passionate Software Engineering student dedicated to learning, building, and solving real-world problems through code.
+🌱 Currently learning, building, and solving real-world problems through code.
 
 **🛠️ Languages and Tools:**
 
